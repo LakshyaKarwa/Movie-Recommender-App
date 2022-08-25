@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034671193263",
+    "project_id": "moviemate-e270f",
+    "storage_bucket": "moviemate-e270f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034671193263:android:0ce30600fae42cfc81a85a",
+        "android_client_info": {
+          "package_name": "com.example.movierecommendationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034671193263-khuvarvab4t3vobb85uq3enmrp2mbvmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGvTJnTokDI1x8OJzcuuShUpMOnxBbIG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034671193263-khuvarvab4t3vobb85uq3enmrp2mbvmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
